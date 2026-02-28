@@ -23,4 +23,5 @@ It combines powerful SQL queries with interactive Excel dashboards to uncover ac
 - Provided visibility into regional strengths and weaknesses.  
 - Supported pricing strategy by evaluating markup and demand.  
 
-## Project Structure
+
+

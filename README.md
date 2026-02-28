@@ -4,7 +4,7 @@
 This project delivers end-to-end analysis of **sales, revenue, and profitability** using SQL and Excel.  
 It combines powerful SQL queries with interactive Excel dashboards to uncover actionable insights that support business strategy and decision-making.
 
-## Key Analyses
+## Key Analysis
 - **Revenue Trends**: Track annual revenue, market share by gender/category, and regional performance.  
 - **Profit Margin Analysis**: Monthly, category, and sub-category breakdowns to identify high/low-margin areas.  
 - **Customer Segmentation**: Age group, gender, and market share segmentation to highlight profitable segments.  
